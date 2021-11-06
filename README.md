@@ -5,7 +5,6 @@
 **# Built With Front End**
  - [Twitter Bootstrap 5](https://getbootstrap.com)
  - [Sweet Alert](https://sweetalert2.github.io) 
- - [EJS](https://ejs.co) 
  - [Axios](https://github.com/axios/axios)
  - [JQUERY](https://jquery.com)
 
